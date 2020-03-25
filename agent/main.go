@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	CONFIG_LOC = "https://raw.githubusercontent.com/epswartz/wcu_ping_cfg/master/config.json" // Default location of config
+	CONFIG_LOC = "https://raw.githubusercontent.com/epswartz/wcu_ping/master/config.json" // Default location of config
 )
 
 // Config holds the json cfg from github
